@@ -1,4 +1,4 @@
-# Project-Create-a-Token
+# Project-Solidity (for my metaceafters assignment of Ethereum begineer cource)
 Let’s Create a Token, Together!
 
 # MyToken Solidity Contract
